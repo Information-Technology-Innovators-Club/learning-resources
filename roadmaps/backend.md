@@ -1,57 +1,29 @@
 # ⚙️ Backend Developer Roadmap
 
-Welcome to the **ITIC ⚙️ Backend Developer Roadmap**! This roadmap provides a step-by-step path to master this specialization. Follow the checklist and check out the linked resources for each section.
+Design data models, server APIs, and scale network infrastructures.
 
 ---
 
-## 🗺️ The Roadmap
-### 1. Language Proficiency (Python, Node.js, Go, or Java)
-- [ ] Study the fundamentals.
-- [ ] Build a mini-project applying this concept.
-- [ ] Reference docs / guides.
+## 🗺️ Structured Checklist
 
-### 2. Relational Databases (PostgreSQL, MySQL)
-- [ ] Study the fundamentals.
-- [ ] Build a mini-project applying this concept.
-- [ ] Reference docs / guides.
+Follow this milestone plan step-by-step. Toggle checks as you progress.
 
-### 3. Non-Relational Databases (MongoDB, Redis)
-- [ ] Study the fundamentals.
-- [ ] Build a mini-project applying this concept.
-- [ ] Reference docs / guides.
+- [ ] **Core Programming**: Learn Python, Node.js, Go, or Java. Reference: [Codecademy Back-End Paths](https://www.codecademy.com/)
+- [ ] **Relational Databases**: SQL, normalization, indexing. Reference: [SQL Tutorial](https://www.w3schools.com/sql/)
+- [ ] **RESTful & GraphQL APIs**: HTTP codes, endpoints, schemas. Reference: [REST API Tutorial](https://restfulapi.net/)
+- [ ] **Authentication**: JWT, sessions, hashing passwords. Reference: [Auth0 Learning Center](https://auth0.com/docs)
+- [ ] **Containers (Docker)**: Isolation, Dockerfiles, compose. Reference: [Docker Guides](https://docs.docker.com/get-started/)
 
-### 4. API Design Principles (RESTful, GraphQL, gRPC)
-- [ ] Study the fundamentals.
-- [ ] Build a mini-project applying this concept.
-- [ ] Reference docs / guides.
+---
 
-### 5. Web Security Fundamentals (CORS, OWASP, HTTPS)
-- [ ] Study the fundamentals.
-- [ ] Build a mini-project applying this concept.
-- [ ] Reference docs / guides.
+## 💻 Recommended Practical Projects
 
-### 6. Authentication & Authorization (JWT, OAuth, Sessions)
-- [ ] Study the fundamentals.
-- [ ] Build a mini-project applying this concept.
-- [ ] Reference docs / guides.
+Apply your learning by building these projects from scratch:
 
-### 7. Testing (Unit, Integration, E2E)
-- [ ] Study the fundamentals.
-- [ ] Build a mini-project applying this concept.
-- [ ] Reference docs / guides.
+- **REST API for CUT Library**: CRUD endpoints, SQLite backend, JWT authentication.
+- **Chat App Backend**: WebSockets, real-time message broker using Redis.
+- **File Upload Server**: AWS S3 integration, image optimization, file validation.
 
-### 8. Containerization (Docker)
-- [ ] Study the fundamentals.
-- [ ] Build a mini-project applying this concept.
-- [ ] Reference docs / guides.
-
-### 9. CI/CD Integration
-- [ ] Study the fundamentals.
-- [ ] Build a mini-project applying this concept.
-- [ ] Reference docs / guides.
-
-
-## 🎓 Recommended Milestones
-- **Level 1 (Novice)**: Complete steps 1-3, build a simple portfolio project.
-- **Level 2 (Competent)**: Complete steps 4-7, build a full collaborative application.
-- **Level 3 (Master)**: Complete the roadmap, optimize deployment, and mentor others.
+## 🎓 Next Steps
+- Reach out to mentors in the ITIC group if you face blockers.
+- Push your projects to your personal GitHub portfolio.

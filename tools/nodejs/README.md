@@ -1,15 +1,35 @@
 # 🟢 Node.js Setup & Guides
 
-Server-side JavaScript runtime, package managers (npm, yarn, pnpm).
+Chrome's V8 JavaScript engine packaged for server-side runtimes.
 
 ---
 
-## 🚀 Getting Started
-1. **Download & Install**: Visit the official website or package manager.
-2. **Configuration**: Check out our default setup configs here.
-3. **Key Shortcuts & Tips**: Optimize your workflow.
+## 🚀 Getting Started & CLI Setup
+```bash
+    node index.js             # Execute script file using Node
+    npm init -y               # Initialize default package.json
+    npm install <package>     # Install dependency via npm
+    npx nodemon index.js      # Watch files and auto-restart dev app
+    npm run build             # Compile production build assets
+```
 
-## 📚 Essential Guides
-- [Setup Instructions](README.md#getting-started)
-- [Recommended Configurations & Extensions](README.md)
-- [Common Troubleshooting Steps](README.md)
+---
+
+## 📋 Core Reference Sheet
+
+| Package Manager | Commands | Best For |
+| :--- | :--- | :--- |
+| **npm** | `npm install` | Default, standard, stable |
+| **yarn** | `yarn install` | Fast cache resolution |
+| **pnpm** | `pnpm install` | Multi-project symlink workspace |
+
+
+---
+
+## 🔧 Recommended Setup
+1. Download installer from the official website.
+2. Follow standard setup configuration prompts.
+3. Check the default environment PATH variables are set.
+
+## 🤝 Contributing
+Suggest configurations or integrations by editing this file. Read [CONTRIBUTING.md](../../CONTRIBUTING.md) for details.

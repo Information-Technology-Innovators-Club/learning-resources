@@ -1,15 +1,31 @@
-# 🚀 Cursor Editor Setup & Guides
+# 🚀 Cursor AI Editor Setup & Guides
 
-Getting started and maximizing efficiency using the AI-first Cursor editor.
+An AI-first code editor branched off VS Code. Incorporates inline chat, composers, and codebase indexing.
 
 ---
 
-## 🚀 Getting Started
-1. **Download & Install**: Visit the official website or package manager.
-2. **Configuration**: Check out our default setup configs here.
-3. **Key Shortcuts & Tips**: Optimize your workflow.
+## 🚀 Getting Started & CLI Setup
+```bash
+    cursor .                 # Open Cursor editor in current workspace
+```
 
-## 📚 Essential Guides
-- [Setup Instructions](README.md#getting-started)
-- [Recommended Configurations & Extensions](README.md)
-- [Common Troubleshooting Steps](README.md)
+---
+
+## 📋 Core Reference Sheet
+
+| Shortcut | Action | Description |
+| :--- | :--- | :--- |
+| **AI Chat Panel** | `Ctrl / Cmd + L` | Ask questions about selection or code |
+| **Inline Edit** | `Ctrl / Cmd + K` | Prompt AI to modify selected code blocks |
+| **Composer Mode** | `Ctrl / Cmd + I` | Multi-file code generation workspace |
+
+
+---
+
+## 🔧 Recommended Setup
+1. Download installer from the official website.
+2. Follow standard setup configuration prompts.
+3. Check the default environment PATH variables are set.
+
+## 🤝 Contributing
+Suggest configurations or integrations by editing this file. Read [CONTRIBUTING.md](../../CONTRIBUTING.md) for details.

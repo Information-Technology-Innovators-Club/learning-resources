@@ -1,62 +1,29 @@
 # 🎨 Frontend Developer Roadmap
 
-Welcome to the **ITIC 🎨 Frontend Developer Roadmap**! This roadmap provides a step-by-step path to master this specialization. Follow the checklist and check out the linked resources for each section.
+Master building high-performance, visually rich interfaces.
 
 ---
 
-## 🗺️ The Roadmap
-### 1. Internet Fundamentals (HTTP, DNS, Domain Names)
-- [ ] Study the fundamentals.
-- [ ] Build a mini-project applying this concept.
-- [ ] Reference docs / guides.
+## 🗺️ Structured Checklist
 
-### 2. HTML5 & CSS3 (Layouts, Grid, Flexbox)
-- [ ] Study the fundamentals.
-- [ ] Build a mini-project applying this concept.
-- [ ] Reference docs / guides.
+Follow this milestone plan step-by-step. Toggle checks as you progress.
 
-### 3. JavaScript ES6+ Fundamentals
-- [ ] Study the fundamentals.
-- [ ] Build a mini-project applying this concept.
-- [ ] Reference docs / guides.
+- [ ] **Internet Fundamentals**: Learn DNS, Hosting, HTTP Protocols. Reference: [MDN Web How Internet Works](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
+- [ ] **HTML5 & CSS3**: Modern semantics, flexbox, grid, accessibility. Reference: [freeCodeCamp Responsive Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+- [ ] **JavaScript ES6+**: Functions, Promises, DOM Manipulation. Reference: [JavaScript.info](https://javascript.info/)
+- [ ] **Frameworks (React / Next.js)**: Props, state, hooks, routing. Reference: [React Official Docs](https://react.dev/)
+- [ ] **CSS Frameworks (Tailwind)**: Utility-first CSS styling. Reference: [Tailwind Docs](https://tailwindcss.com/)
 
-### 4. Version Control (Git & GitHub)
-- [ ] Study the fundamentals.
-- [ ] Build a mini-project applying this concept.
-- [ ] Reference docs / guides.
+---
 
-### 5. CSS Preprocessors & Frameworks (Sass, Tailwind)
-- [ ] Study the fundamentals.
-- [ ] Build a mini-project applying this concept.
-- [ ] Reference docs / guides.
+## 💻 Recommended Practical Projects
 
-### 6. Package Managers (npm, yarn, pnpm)
-- [ ] Study the fundamentals.
-- [ ] Build a mini-project applying this concept.
-- [ ] Reference docs / guides.
+Apply your learning by building these projects from scratch:
 
-### 7. Modern Frameworks (React, Vue, or Angular)
-- [ ] Study the fundamentals.
-- [ ] Build a mini-project applying this concept.
-- [ ] Reference docs / guides.
+- **Portfolio Site**: Complete with CSS Grid, animations, and contact form.
+- **Task Tracker Web App**: Implements REST API integrations and state management.
+- **E-commerce Shop Page**: Product filter, shopping cart, using React/Next.js.
 
-### 8. State Management (Redux, Zustand, Context API)
-- [ ] Study the fundamentals.
-- [ ] Build a mini-project applying this concept.
-- [ ] Reference docs / guides.
-
-### 9. Testing (Jest, React Testing Library)
-- [ ] Study the fundamentals.
-- [ ] Build a mini-project applying this concept.
-- [ ] Reference docs / guides.
-
-### 10. Deployment & Hosting (Vercel, Netlify, AWS)
-- [ ] Study the fundamentals.
-- [ ] Build a mini-project applying this concept.
-- [ ] Reference docs / guides.
-
-
-## 🎓 Recommended Milestones
-- **Level 1 (Novice)**: Complete steps 1-3, build a simple portfolio project.
-- **Level 2 (Competent)**: Complete steps 4-7, build a full collaborative application.
-- **Level 3 (Master)**: Complete the roadmap, optimize deployment, and mentor others.
+## 🎓 Next Steps
+- Reach out to mentors in the ITIC group if you face blockers.
+- Push your projects to your personal GitHub portfolio.
