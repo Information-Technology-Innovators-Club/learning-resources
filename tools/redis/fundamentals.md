@@ -1,0 +1,3 @@
+# 🧱 Core Redis Fundamentals
+
+Variables, operators, types, and logic structures.

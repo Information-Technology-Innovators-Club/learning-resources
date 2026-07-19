@@ -1,30 +1,3 @@
-# 🛠️ Appwrite Setup & Guides
+# 📘 Appwrite Guide
 
-Installation steps, recommended setups, and guides for Appwrite.
-
----
-
-## 🚀 Getting Started & CLI Setup
-```bash
-    # Setup and configurations for appwrite
-    # Please add documentation inside tools/appwrite/README.md
-```
-
----
-
-## 📋 Core Reference Sheet
-
-| Resource | Link | Description |
-| :--- | :--- | :--- |
-| **Official Website** | https://google.com/search?q=appwrite | Search official download details |
-
-
----
-
-## 🔧 Recommended Setup
-1. Download installer from the official website.
-2. Follow standard setup configuration prompts.
-3. Check the default environment PATH variables are set.
-
-## 🤝 Contributing
-Suggest configurations or integrations by editing this file. Read [CONTRIBUTING.md](../../CONTRIBUTING.md) for details.
+Overview of Appwrite concepts and study targets.
